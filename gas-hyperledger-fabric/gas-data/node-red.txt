@@ -1,0 +1,8 @@
+{"gasType":"CO2","gasValue":220,"threshold":500,"ownerName":"Trident Industries"}
+{"gasType":"NO2","gasValue":120,"threshold":200,"ownerName":"Rooster Industries"}
+{"gasType":"NO2","gasValue":80,"threshold":200,"ownerName":"Rooster Industries"}
+{"gasType":"NO2","gasValue":40,"threshold":200,"ownerName":"Rooster Industries"}
+{"gasType":"O2","gasValue":200,"threshold":800,"ownerName":"LiveScience Technologies"}
+{"gasType":"SO4","gasValue":200,"threshold":800,"ownerName":"Pulsar Technologies"}
+{"gasType":"SO2","gasValue":150,"threshold":700,"ownerName":"Krish Technologies"}
+
